@@ -3,3 +3,6 @@ hola mundo
 esto fue agregado despues del primes commit
 
 esto lo agrege en mi primera rama
+lista de amigos:
+1.sayu
+2.eli
